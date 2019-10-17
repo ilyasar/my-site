@@ -1,0 +1,48 @@
+body {
+  text-align: justify;
+  background: black;
+  color: rgb(255, 255, 255);
+  margin-right: 30px;
+  margin-left: 30px;
+  border: 2px red dashed;
+}
+table, th, td {
+  border: 2px solid white;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.hhh{
+  color: yellow;
+}
+.hhh:hover{
+  color: red;
+}
+
+
+li {
+
+  display: inline;
+  
+
+}
+
+article{
+
+  display: block;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+a {
+  text-decoration: none;
+  color: rgb(0, 4, 255)
+}
+
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
