@@ -4,7 +4,6 @@ body {
   color: rgb(255, 255, 255);
   margin-right: 30px;
   margin-left: 30px;
-  border: 2px red dashed;
 }
 table, th, td {
   border: 2px solid white;
